@@ -1,0 +1,14 @@
+#myconfig
+.DS_Store
+.zshrc
+
+#java
+*.class
+
+
+#python
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
